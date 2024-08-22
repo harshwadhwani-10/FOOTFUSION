@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<configuration date="2024/04/04" author="e.World Technology Ltd.">
+  <project id="{622f218e-09d1-4273-b48c-efd10da4c09f}" file="C:\Users\om\Documents\PHPReportMaker\Projects\project2.prp" name="project2" product="PHPReportMaker" version="12.0" datetime="2024/04/04 09:34:57" languagefolder="phprptlang" userlevel="-2,&quot;Anonymous&quot;,0;">
+    <table id="cart_tbl" name="cart_tbl" caption="cart tbl" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="category" name="category" caption="category" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="category_wise" name="category wise" caption="category wise" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="color" name="color" caption="color" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="feedback" name="feedback" caption="feedback" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="image" name="image" caption="image" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="offer" name="offer" caption="offer" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="offer_expiration_wise" name="offer expiration wise" caption="offer expiration wise" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="offer_status_wise" name="offer status wise" caption="offer status wise" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="order_date_wise" name="order date wise" caption="order date wise" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="order_sales" name="order sales" caption="order sales" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="order_detail" name="order_detail" caption="order detail" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="order_tbl" name="order_tbl" caption="order tbl" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="payment" name="payment" caption="payment" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="payment_datewise" name="payment datewise" caption="payment datewise" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="payment_mode_wise" name="payment mode wise" caption="payment mode wise" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="product" name="product" caption="product" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="product_group_wise" name="product group wise" caption="product group wise" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="product_namewise_report" name="product namewise report" caption="product namewise report" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="product_order_wise" name="product order wise" caption="product order wise" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="product_price_wise" name="product price wise" caption="product price wise" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="product_status_wise" name="product status wise" caption="product status wise" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="product_wise" name="product wise" caption="product wise" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="product_desc" name="product_desc" caption="product desc" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="refund" name="refund" caption="refund" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="user" name="user" caption="user" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+  </project>
+</configuration>
